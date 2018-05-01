@@ -41,7 +41,7 @@ wamp版本：WampServer Version 3.0.6 32bit
  
 
 
-  [1]: https://github.com/hedonghui/article/blob/master/php/screenshot/php2.jpg
+  [1]: https://github.com/hedonghui/article/blob/master/php/screenshot/php1.jpg
   [2]: https://github.com/hedonghui/article/blob/master/php/screenshot/php2.jpg
   [3]: https://github.com/hedonghui/article/blob/master/php/screenshot/php3.jpg
   [4]: https://github.com/hedonghui/article/blob/master/php/screenshot/php4.jpg
